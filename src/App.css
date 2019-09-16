@@ -26,7 +26,9 @@
 	background-color: #3D3175;
 	color: white;
 }
-
+.ageUp,.ageDown:focus{
+	outline: none;
+}
 /* list */
 .arrayItems{
 	font-size: 1.5rem;
