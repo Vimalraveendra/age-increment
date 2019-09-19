@@ -24,23 +24,6 @@
       ">0.2%",
       "not dead",
       "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
     ]
-  },
-  "description": "React to run the project.",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Vimalraveendra/age-increment.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Vimalraveendra/age-increment/issues"
-  },
-  "homepage": "https://github.com/Vimalraveendra/age-increment#readme"
+  }
 }
